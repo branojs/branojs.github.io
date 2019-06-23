@@ -1,0 +1,13 @@
+/* Put your custom styles here */
+.content-1-7 img {
+    opacity: 1;
+}
+
+.content-1-7 img:hover {
+    opacity: 0.2;
+}
+
+.content-1-7 .col-md-2 {
+    width: 20%;
+    height: 100px;
+}

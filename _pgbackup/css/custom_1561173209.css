@@ -1,0 +1,8 @@
+/* Put your custom styles here */
+.content-1-7 img {
+    opacity: 1;
+}
+
+.content-1-7 img:hover {
+    opacity: 0.2;
+}

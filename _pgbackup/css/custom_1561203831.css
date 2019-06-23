@@ -1,0 +1,27 @@
+/* Put your custom styles here */
+@media (max-width:991px) {
+    .content-1-7 img {
+        opacity: 1;
+        width: 150px;
+        max-width: 124px;
+        margin-top: 0px;
+        min-width: 80px;
+    }
+}
+
+.content-1-7 img:hover {
+    opacity: 0.2;
+}
+
+@media (max-width:767px) {
+    .content-1-7 .col-md-2 {
+        height: 100px;
+        width: 20%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.bg-deepocean {
+    background-color: #1a1a1a;
+}
